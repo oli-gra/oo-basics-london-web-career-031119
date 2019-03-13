@@ -1,4 +1,4 @@
 # Make your shoe class here!
 
-Class Shoe
+class Shoe
 end
