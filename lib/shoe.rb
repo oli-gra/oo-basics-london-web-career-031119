@@ -9,7 +9,8 @@ def initialize (brand)
 end
 
 def cobble
-  puts ""
+  puts "that the shoe has been repaired"
+  @condition = "new"
 end
 
 end
